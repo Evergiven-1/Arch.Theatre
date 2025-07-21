@@ -5,7 +5,15 @@ This project will involve the development of a DD - level theoretical Architectu
 
 This Theatre will be based on several sources, not all formally providing plans or elevations. 
 
-A combination of screen caps I noticed in new Anno game <span style="font-size: .75em;">(I have never played a game from that title series, nor is the game I am referencing even formally released, as far as I know.)</span>
+A combination of screen caps I noticed in new Anno game 
+
+<span style="font-size: .75em;">(I have never played a game from that title series, nor is the game I am referencing even formally released, as far as I know.)</span>
+
+[Nivarias's Video](https://www.youtube.com/watch?v=DiGxcIa8kjk)
+<video width="600" controls>
+  <source src="./Assets_RefImages/ScreenCapsFromAnnoVideo/Recording 2025-07-20 203749.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 [Assest_RefLinks](thub.com/Evergiven-1/Arch.Theatre/tree/main/Assets_RefLinks), will be a rough collection of articles, books and webpages I found that pertain to this development.
 
